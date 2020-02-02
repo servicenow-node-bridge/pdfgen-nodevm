@@ -1,0 +1,15 @@
+{
+  "name": "servicenow-node-bridge",
+  "version": "0.0.1",
+  "dependencies": {
+    "handlebars": "^4.5.3",
+    "puppeteer": "^2.0.0",
+    "request": "^2.88.0",
+    "restify": "^8.4.0",
+    "util": "^0.12.1",
+    "vm2": "^3.8.3"
+  },
+  "scripts": {
+    "start": "node index"
+  }
+}
