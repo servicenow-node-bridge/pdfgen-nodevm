@@ -7,7 +7,7 @@
     "request": "^2.88.0",
     "restify": "^8.4.0",
     "util": "^0.12.1",
-    "vm2": "^3.8.3"
+    "vm2": "^3.9.4"
   },
   "scripts": {
     "start": "node index"
